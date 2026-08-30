@@ -1,0 +1,2 @@
+trace_id=>The ID for the entire request journey (a trace can consist of multiple spans).
+span_id=>The unique ID for this specific segment of work ("hello").
